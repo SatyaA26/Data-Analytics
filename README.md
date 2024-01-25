@@ -9,7 +9,7 @@ This project predicts heart disease using various machine learning models, inclu
 
 Run the main script:
 
-   python heart_disease_prediction.py
+   - python heart_disease_prediction.py
 
    Follow the on-screen menu to choose between different models and options.
 
