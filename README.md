@@ -1,1 +1,1 @@
-Please Check (UserManual.pdf) file.
+Note: Please Check (UserManual.pdf) file.
