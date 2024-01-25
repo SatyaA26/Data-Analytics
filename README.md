@@ -33,6 +33,7 @@ Run the main script:
 - Logestic Regression
 - Decision Tree
 - Bagging Function
+- AdaBoost Function
 
 ## Data Visualization
 
